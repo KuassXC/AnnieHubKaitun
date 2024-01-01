@@ -64,7 +64,7 @@ getgenv().Config = {
 
            ["Enable"] = true,
 
-           ["Delay"] = 1800,
+           ["Delay"] = 300,
 
          },
 
